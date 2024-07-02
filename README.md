@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **frame works like Django and Flask,python programming courses**
 
-- 📝 I regularly write articles on [blog](https://medium.com/@rokkamashritha)
+- 📝 I regularly write articles on my [blog](https://medium.com/@rokkamashritha)
 
 - 💬 Ask me about **web development, python programming, machine learning**
 
