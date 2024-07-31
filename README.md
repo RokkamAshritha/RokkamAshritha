@@ -48,3 +48,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rokkamashritha&" alt="rokkamashritha" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=RokkamAshritha&theme=onedark)](https://github.com/RokkamAshritha/github-profile-trophy)
